@@ -1,1 +1,2 @@
-# devops_basic_dianaozo
+# DevOps repozitorijs
+Diānas Ozoliņas DevOps repozitorijs pamati iesācējiem
