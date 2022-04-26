@@ -16,7 +16,7 @@ Saite: https://github.com/Dlana0/devops_basic_dianaozo
 | `*` | Ar komandu `"git log --pretty=fuller --after="2021-04-20" --until="2021-04-21""` pārbaudīts, ka 16.aprīlis ir `AuthorDate`, bet `CommitDate` ir 20.aprīlis, ko arī pēc noklusējuma attēlo `Git log`|
 
 
-##Attēli:
+## Attēli:
 
 **16.uzdevums:**
 
