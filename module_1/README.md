@@ -1,6 +1,9 @@
 Autors: Diāna
+
 Saite: https://github.com/Dlana0/devops_basic_dianaozo
+
 ![Image](https://github.com/Dlana0/devops_basic_dianaozo/blob/master/module_1/DevOps.png)
+
 
 ## 2. Tēma
 **Priekšnosacījumi:**
