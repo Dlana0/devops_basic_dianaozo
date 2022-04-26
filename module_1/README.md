@@ -1,6 +1,6 @@
 Autors: Diāna
 Saite: https://github.com/Dlana0/devops_basic_dianaozo
-(https://github.com/Dlana0/devops_basic_dianaozo/blob/master/module_1/README.md)
+![Image](https://github.com/Dlana0/devops_basic_dianaozo/blob/master/module_1/README.md)
 
 ## 2. Tēma
 **Priekšnosacījumi:**
